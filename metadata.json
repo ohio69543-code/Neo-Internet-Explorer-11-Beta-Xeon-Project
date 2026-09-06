@@ -1,0 +1,6 @@
+{
+  "name": "Neo-Internet Explorer 11",
+  "description": "A high-performance web browser with an authentic Internet Explorer 11 interface, tabbed navigation, OneBox address bar, in-app YouTube, TikTok, Bing, Reddit, and web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
